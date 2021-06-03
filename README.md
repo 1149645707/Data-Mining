@@ -1,15 +1,15 @@
 # Data-Mining
-数据挖掘
+# 数据挖掘
 
-homework4-互评作业1
+## homework4-互评作业1
 数据集
 1、Consumer & Visitor Insights For Neighborhoods
 2、Wine Reviews
 
-homework5-互评作业2
+## homework5-互评作业2
 数据集：Wine Reviews
 
-homework6-互评作业3
+## homework6-互评作业3
 选择问题：
 Hotel booking demand, 酒店预订需求
 数据集：Hotel booking demand
@@ -22,5 +22,5 @@ Hotel booking demand, 酒店预订需求
 利用Logistic预测酒店预订。
 也可以自行发现其他问题，并进行相应的挖掘。
 
-course_project-课程大作业
+## course_project-课程大作业
 数据集：Wine Quality
