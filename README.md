@@ -23,4 +23,5 @@ Hotel booking demand, 酒店预订需求
 也可以自行发现其他问题，并进行相应的挖掘。
 
 ## course_project-课程大作业
+研究问题：基于数据挖掘技术的葡萄酒品质预测  
 数据集：Wine Quality
